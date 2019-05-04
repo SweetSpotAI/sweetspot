@@ -6,3 +6,5 @@ edition = "2018"
 
 [dependencies]
 actix-web="1.0.0-beta.2"
+serde="*"
+serde_derive="*"
