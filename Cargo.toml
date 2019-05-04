@@ -1,0 +1,8 @@
+[package]
+name = "sweetspot"
+version = "0.1.0"
+authors = ["Daniël Heres <dheres@bol.com>"]
+edition = "2018"
+
+[dependencies]
+actix-web="1.0.0-beta.2"
